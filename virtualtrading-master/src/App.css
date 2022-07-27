@@ -1,0 +1,20 @@
+.select-grid-cont {
+  display: grid;
+  grid-template-columns: 70% 30%;
+}
+.select-data-grid {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+}
+.card-box {
+  height: calc(100% - 24px) !important;
+}
+
+.table.products tr td {
+  color: #555;
+  font-weight: bold;
+}
+.table.products h4 {
+  color: #555;
+  font-weight: bold;
+}
